@@ -1,4 +1,4 @@
-# Support Vector Machines, From Start to Finish
+# Support Vector Machines
 
 ## Project Overview
 
